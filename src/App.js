@@ -57,7 +57,6 @@ function App() {
             type="text"
             value={apiUrl}
             onChange={(e) => setApiUrl(e.target.value)}
-            // placeholder="https://developer-task.onrender.com/sort-word"
             style={{ width: "400px", padding: "8px" }}
           />
         </div>
